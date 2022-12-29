@@ -1,0 +1,24 @@
+2022/12/29 16:03:10 Client called increment
+2022/12/29 16:03:10 Returned increment value is 0
+2022/12/29 16:03:11 Client called increment
+2022/12/29 16:03:11 Returned increment value is 1
+2022/12/29 16:03:12 Client called increment
+2022/12/29 16:03:12 Returned increment value is 2
+2022/12/29 16:03:15 Client called increment
+2022/12/29 16:07:28 Client called increment
+2022/12/29 16:07:28 Returned increment value is 0
+2022/12/29 16:07:28 Client called increment
+2022/12/29 16:07:28 Returned increment value is 1
+2022/12/29 16:07:29 Client called increment
+2022/12/29 16:07:29 Returned increment value is 2
+2022/12/29 16:07:32 Client called increment
+2022/12/29 16:07:34 Port: 5001 server has crashed
+2022/12/29 16:07:34 Returned increment value is 3
+2022/12/29 16:07:36 Client called increment
+2022/12/29 16:07:39 Port: 5001 server has crashed
+2022/12/29 16:07:39 Returned increment value is 4
+2022/12/29 16:07:42 Client called increment
+2022/12/29 16:07:44 Port: 5000 server has crashed
+2022/12/29 16:07:46 Port: 5001 server has crashed
+2022/12/29 16:07:46 Returned increment value is 5
+2022/12/29 16:07:49 EOF
